@@ -1,0 +1,17 @@
+{
+    "name": "passgen-node-terminalapp",
+    "version": "1.0.0",
+    "description": "Simple password generator node cli",
+    "main": "index.js",
+    "preferGlobal": true,
+    "bin": "./index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shivanand Mitkar",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.0.1",
+        "commander": "^9.2.0"
+    }
+}
