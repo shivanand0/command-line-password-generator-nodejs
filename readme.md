@@ -11,17 +11,17 @@ Short Long Description <br>
 <br>
 
 # Usage
-Install Dependencies
+Install Dependencies: 
 npm install
 
-Run file
+Run file: 
 node index (options)
 
-To create a symlink to run "passgen" from anywhere
+To create a symlink to run "passgen" from anywhere: 
 npm link
 
-# Now you can run
+Now you can run: <br>
 passgen-node-terminalapp (options)
-
-# To remove symlink
+<br>
+To remove symlink: <br>
 npm unlink
